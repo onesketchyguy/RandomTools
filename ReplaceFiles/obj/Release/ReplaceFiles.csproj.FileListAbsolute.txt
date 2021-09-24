@@ -1,0 +1,15 @@
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Release\ReplaceFiles.exe.config
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Release\ReplaceFiles.exe
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Release\ReplaceFiles.pdb
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\MainWindow.g.cs
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\App.g.cs
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles_MarkupCompile.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles_MarkupCompile.lref
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\MainWindow.baml
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.g.resources
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.Properties.Resources.resources
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.csproj.GenerateResource.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.csproj.CoreCompileInputs.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.exe
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.pdb
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Release\ReplaceFiles.csproj.AssemblyReference.cache

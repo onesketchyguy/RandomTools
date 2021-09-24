@@ -1,0 +1,30 @@
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.AssemblyReference.cache
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\MainWindow.g.cs
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\App.g.cs
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles_MarkupCompile.cache
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles_MarkupCompile.lref
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\bin\Debug\ReplaceFiles.exe.config
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\bin\Debug\ReplaceFiles.exe
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\bin\Debug\ReplaceFiles.pdb
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\MainWindow.baml
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.g.resources
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.Properties.Resources.resources
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.GenerateResource.cache
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.CoreCompileInputs.cache
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.exe
+C:\Users\frres\OneDrive\Desktop\My apps\ReplaceFiles\ReplaceFiles\obj\Debug\ReplaceFiles.pdb
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Debug\ReplaceFiles.exe.config
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Debug\ReplaceFiles.exe
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\bin\Debug\ReplaceFiles.pdb
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.AssemblyReference.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\MainWindow.g.cs
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\App.g.cs
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles_MarkupCompile.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles_MarkupCompile.lref
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\MainWindow.baml
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.g.resources
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.Properties.Resources.resources
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.GenerateResource.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.csproj.CoreCompileInputs.cache
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.exe
+H:\Adobe.Creative.Suite.6.Master.Collection-P2P\Replace files\Source code\ReplaceFiles\obj\Debug\ReplaceFiles.pdb

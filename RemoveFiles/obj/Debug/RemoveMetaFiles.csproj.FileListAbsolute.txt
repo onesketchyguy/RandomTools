@@ -1,0 +1,20 @@
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\bin\Debug\RemoveMetaFiles.exe.config
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\bin\Debug\RemoveMetaFiles.exe
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\bin\Debug\RemoveMetaFiles.pdb
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.csprojAssemblyReference.cache
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.Form1.resources
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.Properties.Resources.resources
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.csproj.GenerateResource.cache
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.csproj.CoreCompileInputs.cache
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.exe
+C:\Users\frres\OneDrive\Desktop\Practice Engine Projects\RemoveMetaFiles\obj\Debug\RemoveMetaFiles.pdb
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\bin\Debug\RemoveMetaFiles.exe.config
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\bin\Debug\RemoveMetaFiles.exe
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\bin\Debug\RemoveMetaFiles.pdb
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.csproj.AssemblyReference.cache
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveFiles.Form1.resources
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.Properties.Resources.resources
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.csproj.GenerateResource.cache
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.csproj.CoreCompileInputs.cache
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.exe
+C:\Users\frres\OneDrive\Desktop\My apps\RemoveFiles\obj\Debug\RemoveMetaFiles.pdb
